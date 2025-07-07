@@ -167,7 +167,7 @@ python-dotenv==1.0.0
 
 ### 📜 License
 
-This project is licensed under MIT License (or your chosen license).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 Made with ❤️ by  Lakshya Rohra
